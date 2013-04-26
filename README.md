@@ -1,2 +1,2 @@
-.Daniel Abrilot
-.John López
+*Daniel Abrilot
+*John López
