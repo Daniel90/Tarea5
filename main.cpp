@@ -120,6 +120,7 @@ int main(int argc, char * argv[])
              {
                    cout<<"Daniel Abrilot"<<endl<<"John Lopez"<<endl;      
                    cout<<"Fecha actual: ";
+                   cout<<"version numero 5baef4edb21ded06a6087f9c7f2b2213896adeac"<<endl;
                    mostrarFecha();
              }
              
